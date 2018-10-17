@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d5fb09e23640aa24a9ec8b4cbeb30fbf
+timeCreated: 1531772535
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Showcard Gothic
+  fontNames:
+  - Showcard Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
